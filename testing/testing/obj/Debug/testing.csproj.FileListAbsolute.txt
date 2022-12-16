@@ -1,0 +1,8 @@
+C:\C# form\testing\testing\bin\Debug\testing.exe.config
+C:\C# form\testing\testing\bin\Debug\testing.exe
+C:\C# form\testing\testing\bin\Debug\testing.pdb
+C:\C# form\testing\testing\obj\Debug\testing.csproj.AssemblyReference.cache
+C:\C# form\testing\testing\obj\Debug\testing.csproj.SuggestedBindingRedirects.cache
+C:\C# form\testing\testing\obj\Debug\testing.csproj.CoreCompileInputs.cache
+C:\C# form\testing\testing\obj\Debug\testing.exe
+C:\C# form\testing\testing\obj\Debug\testing.pdb

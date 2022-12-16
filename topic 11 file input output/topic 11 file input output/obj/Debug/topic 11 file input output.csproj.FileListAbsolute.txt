@@ -1,0 +1,11 @@
+C:\C# form\topic 11 file input output\topic 11 file input output\obj\Debug\topic 11 file input output.csproj.AssemblyReference.cache
+C:\C# form\topic 11 file input output\topic 11 file input output\obj\Debug\topic 11 file input output.csproj.SuggestedBindingRedirects.cache
+C:\C# form\topic 11 file input output\topic 11 file input output\obj\Debug\topic_11_file_input_output.Form1.resources
+C:\C# form\topic 11 file input output\topic 11 file input output\obj\Debug\topic_11_file_input_output.Properties.Resources.resources
+C:\C# form\topic 11 file input output\topic 11 file input output\obj\Debug\topic 11 file input output.csproj.GenerateResource.cache
+C:\C# form\topic 11 file input output\topic 11 file input output\obj\Debug\topic 11 file input output.csproj.CoreCompileInputs.cache
+C:\C# form\topic 11 file input output\topic 11 file input output\bin\Debug\topic 11 file input output.exe.config
+C:\C# form\topic 11 file input output\topic 11 file input output\bin\Debug\topic 11 file input output.exe
+C:\C# form\topic 11 file input output\topic 11 file input output\bin\Debug\topic 11 file input output.pdb
+C:\C# form\topic 11 file input output\topic 11 file input output\obj\Debug\topic 11 file input output.exe
+C:\C# form\topic 11 file input output\topic 11 file input output\obj\Debug\topic 11 file input output.pdb

@@ -1,0 +1,11 @@
+C:\C# form\ATM matchine\ATM matchine\bin\Debug\ATM matchine.exe.config
+C:\C# form\ATM matchine\ATM matchine\bin\Debug\ATM matchine.exe
+C:\C# form\ATM matchine\ATM matchine\bin\Debug\ATM matchine.pdb
+C:\C# form\ATM matchine\ATM matchine\obj\Debug\ATM matchine.csproj.AssemblyReference.cache
+C:\C# form\ATM matchine\ATM matchine\obj\Debug\ATM matchine.csproj.SuggestedBindingRedirects.cache
+C:\C# form\ATM matchine\ATM matchine\obj\Debug\ATM_matchine.Form1.resources
+C:\C# form\ATM matchine\ATM matchine\obj\Debug\ATM_matchine.Properties.Resources.resources
+C:\C# form\ATM matchine\ATM matchine\obj\Debug\ATM matchine.csproj.GenerateResource.cache
+C:\C# form\ATM matchine\ATM matchine\obj\Debug\ATM matchine.csproj.CoreCompileInputs.cache
+C:\C# form\ATM matchine\ATM matchine\obj\Debug\ATM matchine.exe
+C:\C# form\ATM matchine\ATM matchine\obj\Debug\ATM matchine.pdb
