@@ -1,0 +1,12 @@
+C:\C# form\topic 12\topic 12\bin\Debug\own.accdb
+C:\C# form\topic 12\topic 12\bin\Debug\topic 12.exe.config
+C:\C# form\topic 12\topic 12\bin\Debug\topic 12.exe
+C:\C# form\topic 12\topic 12\bin\Debug\topic 12.pdb
+C:\C# form\topic 12\topic 12\obj\Debug\topic 12.csproj.AssemblyReference.cache
+C:\C# form\topic 12\topic 12\obj\Debug\topic 12.csproj.SuggestedBindingRedirects.cache
+C:\C# form\topic 12\topic 12\obj\Debug\topic_12.Form1.resources
+C:\C# form\topic 12\topic 12\obj\Debug\topic_12.Properties.Resources.resources
+C:\C# form\topic 12\topic 12\obj\Debug\topic 12.csproj.GenerateResource.cache
+C:\C# form\topic 12\topic 12\obj\Debug\topic 12.csproj.CoreCompileInputs.cache
+C:\C# form\topic 12\topic 12\obj\Debug\topic 12.exe
+C:\C# form\topic 12\topic 12\obj\Debug\topic 12.pdb
