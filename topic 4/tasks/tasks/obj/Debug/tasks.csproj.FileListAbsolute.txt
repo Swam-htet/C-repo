@@ -1,0 +1,11 @@
+C:\c# form\topic 4\tasks\tasks\bin\Debug\tasks.exe.config
+C:\c# form\topic 4\tasks\tasks\bin\Debug\tasks.exe
+C:\c# form\topic 4\tasks\tasks\bin\Debug\tasks.pdb
+C:\c# form\topic 4\tasks\tasks\obj\Debug\tasks.csproj.AssemblyReference.cache
+C:\c# form\topic 4\tasks\tasks\obj\Debug\tasks.csproj.SuggestedBindingRedirects.cache
+C:\c# form\topic 4\tasks\tasks\obj\Debug\tasks.Form1.resources
+C:\c# form\topic 4\tasks\tasks\obj\Debug\tasks.Properties.Resources.resources
+C:\c# form\topic 4\tasks\tasks\obj\Debug\tasks.csproj.GenerateResource.cache
+C:\c# form\topic 4\tasks\tasks\obj\Debug\tasks.csproj.CoreCompileInputs.cache
+C:\c# form\topic 4\tasks\tasks\obj\Debug\tasks.exe
+C:\c# form\topic 4\tasks\tasks\obj\Debug\tasks.pdb

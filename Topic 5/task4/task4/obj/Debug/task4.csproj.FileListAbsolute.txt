@@ -1,0 +1,11 @@
+C:\c# form\Topic 5\task4\task4\bin\Debug\task4.exe.config
+C:\c# form\Topic 5\task4\task4\bin\Debug\task4.exe
+C:\c# form\Topic 5\task4\task4\bin\Debug\task4.pdb
+C:\c# form\Topic 5\task4\task4\obj\Debug\task4.csproj.AssemblyReference.cache
+C:\c# form\Topic 5\task4\task4\obj\Debug\task4.csproj.SuggestedBindingRedirects.cache
+C:\c# form\Topic 5\task4\task4\obj\Debug\task4.Form1.resources
+C:\c# form\Topic 5\task4\task4\obj\Debug\task4.Properties.Resources.resources
+C:\c# form\Topic 5\task4\task4\obj\Debug\task4.csproj.GenerateResource.cache
+C:\c# form\Topic 5\task4\task4\obj\Debug\task4.csproj.CoreCompileInputs.cache
+C:\c# form\Topic 5\task4\task4\obj\Debug\task4.exe
+C:\c# form\Topic 5\task4\task4\obj\Debug\task4.pdb

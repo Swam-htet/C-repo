@@ -1,0 +1,11 @@
+C:\c# form\topic 6\ATM clone\ATM clone\bin\Debug\ATM clone.exe.config
+C:\c# form\topic 6\ATM clone\ATM clone\bin\Debug\ATM clone.exe
+C:\c# form\topic 6\ATM clone\ATM clone\bin\Debug\ATM clone.pdb
+C:\c# form\topic 6\ATM clone\ATM clone\obj\Debug\ATM clone.csproj.AssemblyReference.cache
+C:\c# form\topic 6\ATM clone\ATM clone\obj\Debug\ATM clone.csproj.SuggestedBindingRedirects.cache
+C:\c# form\topic 6\ATM clone\ATM clone\obj\Debug\ATM_clone.Form1.resources
+C:\c# form\topic 6\ATM clone\ATM clone\obj\Debug\ATM_clone.Properties.Resources.resources
+C:\c# form\topic 6\ATM clone\ATM clone\obj\Debug\ATM clone.csproj.GenerateResource.cache
+C:\c# form\topic 6\ATM clone\ATM clone\obj\Debug\ATM clone.csproj.CoreCompileInputs.cache
+C:\c# form\topic 6\ATM clone\ATM clone\obj\Debug\ATM clone.exe
+C:\c# form\topic 6\ATM clone\ATM clone\obj\Debug\ATM clone.pdb

@@ -1,0 +1,11 @@
+C:\c# form\Topic 7\example 2 list\example 2 list\bin\Debug\example 2 list.exe.config
+C:\c# form\Topic 7\example 2 list\example 2 list\bin\Debug\example 2 list.exe
+C:\c# form\Topic 7\example 2 list\example 2 list\bin\Debug\example 2 list.pdb
+C:\c# form\Topic 7\example 2 list\example 2 list\obj\Debug\example 2 list.csproj.AssemblyReference.cache
+C:\c# form\Topic 7\example 2 list\example 2 list\obj\Debug\example 2 list.csproj.SuggestedBindingRedirects.cache
+C:\c# form\Topic 7\example 2 list\example 2 list\obj\Debug\example_2_list.Form1.resources
+C:\c# form\Topic 7\example 2 list\example 2 list\obj\Debug\example_2_list.Properties.Resources.resources
+C:\c# form\Topic 7\example 2 list\example 2 list\obj\Debug\example 2 list.csproj.GenerateResource.cache
+C:\c# form\Topic 7\example 2 list\example 2 list\obj\Debug\example 2 list.csproj.CoreCompileInputs.cache
+C:\c# form\Topic 7\example 2 list\example 2 list\obj\Debug\example 2 list.exe
+C:\c# form\Topic 7\example 2 list\example 2 list\obj\Debug\example 2 list.pdb

@@ -1,0 +1,11 @@
+C:\c# form\Topic 7\topic 8 example 2\topic 8 example 2\bin\Debug\topic 8 example 2.exe.config
+C:\c# form\Topic 7\topic 8 example 2\topic 8 example 2\bin\Debug\topic 8 example 2.exe
+C:\c# form\Topic 7\topic 8 example 2\topic 8 example 2\bin\Debug\topic 8 example 2.pdb
+C:\c# form\Topic 7\topic 8 example 2\topic 8 example 2\obj\Debug\topic 8 example 2.csproj.AssemblyReference.cache
+C:\c# form\Topic 7\topic 8 example 2\topic 8 example 2\obj\Debug\topic 8 example 2.csproj.SuggestedBindingRedirects.cache
+C:\c# form\Topic 7\topic 8 example 2\topic 8 example 2\obj\Debug\topic_8_example_2.Form1.resources
+C:\c# form\Topic 7\topic 8 example 2\topic 8 example 2\obj\Debug\topic_8_example_2.Properties.Resources.resources
+C:\c# form\Topic 7\topic 8 example 2\topic 8 example 2\obj\Debug\topic 8 example 2.csproj.GenerateResource.cache
+C:\c# form\Topic 7\topic 8 example 2\topic 8 example 2\obj\Debug\topic 8 example 2.csproj.CoreCompileInputs.cache
+C:\c# form\Topic 7\topic 8 example 2\topic 8 example 2\obj\Debug\topic 8 example 2.exe
+C:\c# form\Topic 7\topic 8 example 2\topic 8 example 2\obj\Debug\topic 8 example 2.pdb
