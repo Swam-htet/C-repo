@@ -9,3 +9,14 @@ C:\c# form\topic 6\topic 6 example\topic 6 example\obj\Debug\topic 6 example.csp
 C:\c# form\topic 6\topic 6 example\topic 6 example\obj\Debug\topic 6 example.csproj.CoreCompileInputs.cache
 C:\c# form\topic 6\topic 6 example\topic 6 example\obj\Debug\topic 6 example.exe
 C:\c# form\topic 6\topic 6 example\topic 6 example\obj\Debug\topic 6 example.pdb
+C:\Users\alphar\OneDrive\Desktop\C-repo\topic 6\topic 6 example\topic 6 example\bin\Debug\topic 6 example.exe.config
+C:\Users\alphar\OneDrive\Desktop\C-repo\topic 6\topic 6 example\topic 6 example\bin\Debug\topic 6 example.exe
+C:\Users\alphar\OneDrive\Desktop\C-repo\topic 6\topic 6 example\topic 6 example\bin\Debug\topic 6 example.pdb
+C:\Users\alphar\OneDrive\Desktop\C-repo\topic 6\topic 6 example\topic 6 example\obj\Debug\topic 6 example.csproj.AssemblyReference.cache
+C:\Users\alphar\OneDrive\Desktop\C-repo\topic 6\topic 6 example\topic 6 example\obj\Debug\topic 6 example.csproj.SuggestedBindingRedirects.cache
+C:\Users\alphar\OneDrive\Desktop\C-repo\topic 6\topic 6 example\topic 6 example\obj\Debug\topic_6_example.Form1.resources
+C:\Users\alphar\OneDrive\Desktop\C-repo\topic 6\topic 6 example\topic 6 example\obj\Debug\topic_6_example.Properties.Resources.resources
+C:\Users\alphar\OneDrive\Desktop\C-repo\topic 6\topic 6 example\topic 6 example\obj\Debug\topic 6 example.csproj.GenerateResource.cache
+C:\Users\alphar\OneDrive\Desktop\C-repo\topic 6\topic 6 example\topic 6 example\obj\Debug\topic 6 example.csproj.CoreCompileInputs.cache
+C:\Users\alphar\OneDrive\Desktop\C-repo\topic 6\topic 6 example\topic 6 example\obj\Debug\topic 6 example.exe
+C:\Users\alphar\OneDrive\Desktop\C-repo\topic 6\topic 6 example\topic 6 example\obj\Debug\topic 6 example.pdb
